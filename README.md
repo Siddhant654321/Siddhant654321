@@ -1,6 +1,6 @@
 # Hello, I'm Siddhant Singh! 👋
 
-A passionate Full Stack developer 🌐 from India with a strong focus on the MERN stack. My passion lies in blending innovative design with functional technology to craft user-centric solutions. 
+A passionate Full Stack developer 🌐 from India with a strong focus on the MERN stack. My passion lies in blending innovative design with functional technology to craft user-centric solutions. Please checkout my updated resume by clicking here - [Resume](https://drive.google.com/file/d/1BNWZgEiaubS_Yy-__DAHZgpnBpn2CxZx/view?usp=sharing).
 
 ## About Me 📖
 - 🌱 I leverage my deep understanding of front-end and back-end technologies to drive successful project outcomes, constantly learning and adapting to new tech trends.
